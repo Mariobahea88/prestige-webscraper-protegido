@@ -1,9 +1,12 @@
 {
-  "clientes": [
-    {
-      "email": "cliente@email.com",
-      "licenca": "ABC123",
-      "expira": "2025-06-30"
+  "clientes": {
+    "cliente123": {
+      "nome": "João Silva",
+      "expira_em": "2025-12-31"
+    },
+    "cliente456": {
+      "nome": "Maria Lima",
+      "expira_em": "2025-07-01"
     }
-  ]
+  }
 }
