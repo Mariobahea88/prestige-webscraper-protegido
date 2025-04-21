@@ -1,7 +1,8 @@
 {
-  "clientes": {
-    "cliente1": {
-      "expira_em": "2025-12-31"
-    }
+  "cliente1": {
+    "expira_em": "2025-12-31"
+  },
+  "cliente2": {
+    "expira_em": "2025-11-30"
   }
 }
