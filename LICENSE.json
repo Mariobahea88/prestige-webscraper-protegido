@@ -1,12 +1,12 @@
 {
   "clientes": {
-    "cliente123": {
-      "nome": "João Silva",
-      "expira_em": "2025-12-31"
+    "PRESTIGE123": {
+      "expira_em": "2025-12-31",
+      "nome": "Prestige Web"
     },
-    "cliente456": {
-      "nome": "Maria Lima",
-      "expira_em": "2025-07-01"
+    "CLIENTE456": {
+      "expira_em": "2025-06-30",
+      "nome": "Advocacia Brumado"
     }
   }
 }
