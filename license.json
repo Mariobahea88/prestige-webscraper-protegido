@@ -4,5 +4,8 @@
   },
   "cliente2": {
     "expira_em": "2025-11-30"
+  },
+  "cliente3": {
+    "expira_em": "2025-11-30"
   }
 }
